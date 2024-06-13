@@ -2,7 +2,7 @@
 project:
   wokwi_id:     400500602801915905     # Set this to the ID of your Wokwi project (the number from the project's URL)
   title:        "Clsk1"      # Project title
-  author:       ""      # Caliskan
+  author:       "Caliskan"      # Caliskan
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "first template "      # One line description of what your project does
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
